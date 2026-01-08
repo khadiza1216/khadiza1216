@@ -6,7 +6,6 @@
 I enjoy building projects and games using **Python** and **Java**.
 I love learning new technologies and turning ideas into real, working applications.
 
----
 
 ## 🚀 What I Do
 
@@ -14,7 +13,6 @@ I love learning new technologies and turning ideas into real, working applicatio
 * Develop simple games and academic projects
 * Practice problem-solving and core programming concepts
 
----
 
 ## 🛠 Tech Stack
 
@@ -31,7 +29,6 @@ I love learning new technologies and turning ideas into real, working applicatio
 * VS Code
 * Google Colab
 
----
 
 ## 🎯 Goals
 
@@ -39,12 +36,10 @@ I love learning new technologies and turning ideas into real, working applicatio
 * Build real-time and practical projects
 * Grow as a confident software developer
 
----
 
 ## 📫 Connect With Me
 
 📧 Email: **khadiza.bony1216@gmail.com**
 
----
 
 ⭐ *Always learning, always building.*
